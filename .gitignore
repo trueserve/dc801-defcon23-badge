@@ -3,3 +3,13 @@ ehthumbs.db
 Desktop.ini
 $RECYCLE.BIN/
 .DS_Store
+
+# eagle autosaves
+*.b#?
+*.s#?
+
+# psoc creator 3.3 generated code and compliation work folders
+CortexM3
+CortexM0
+Generated_Source
+codegentemp
